@@ -1,0 +1,18 @@
+Rust Development: Creating a REST API with Actix Web for Beginners
+https://blog.ediri.io/rust-development-creating-a-rest-api-with-actix-web-for-beginners
+
+Build an API in Rust with JWT Authentication
+Learn how to implement a simple REST API with JWT Authentication in Rust using the actix web framework and Diesel.
+https://auth0.com/blog/build-an-api-in-rust-with-jwt-authentication-using-actix-web/
+
+Create a blazingly fast REST API in Rust (Part 1/2)
+https://hub.qovery.com/guides/tutorial/create-a-blazingly-fast-api-in-rust-part-1/#configure-the-connection-to-the-database
+
+Rust Actix Web blog open source
+https://github.com/Dengjianping/Actix-Blog
+
+Actix Web authorization
+https://github.com/DDtKey/actix-web-grants
+
+Actix Web & SvelteKit tutorials
+https://dev.to/sirneij/full-stack-authentication-system-using-rust-actix-web-and-sveltekit-1cc6

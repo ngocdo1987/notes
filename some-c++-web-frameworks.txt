@@ -1,0 +1,17 @@
+Some C++ web framworks:
+
+1/ Drogon: is a C++14/17-based HTTP application framework. Drogon can be used to easily build various types of web application server programs using C++. Drogon is the name of a dragon in the American TV series "Game of Thrones" that I really like.
+Github: https://github.com/drogonframework/drogon
+Homepage: https://drogon.org/
+
+2/ TreeFrog Framework is a high-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol. Web applications can run faster than that of lightweight programming language. In application development, it provides an O/R mapping system and template system on an MVC architecture, aims to achieve high productivity through the policy of convention over configuration.
+Github: https://github.com/treefrogframework/treefrog-framework
+Home page: https://www.treefrogframework.org/
+
+3/ Oat++ is a modern Web Framework for C++. It's fully loaded and contains all necessary components for effective production level development. It's also light and has a small memory footprint.
+Github: https://github.com/oatpp/oatpp
+Homepage: https://oatpp.io/
+Tutorial: https://hackernoon.com/building-restful-web-service-using-c-swagger-ui-and-auto-documented-endpoints-mb153udv
+
+4/ Pistache is a modern and elegant HTTP and REST framework for C++. It is entirely written in pure-C++17* and provides a clear and pleasant API.
+Github: https://github.com/pistacheio/pistache 
