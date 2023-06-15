@@ -14,4 +14,8 @@ Homepage: https://oatpp.io/
 Tutorial: https://hackernoon.com/building-restful-web-service-using-c-swagger-ui-and-auto-documented-endpoints-mb153udv
 
 4/ Pistache is a modern and elegant HTTP and REST framework for C++. It is entirely written in pure-C++17* and provides a clear and pleasant API.
-Github: https://github.com/pistacheio/pistache 
+Github: https://github.com/pistacheio/pistache
+
+5/ Cutelyst: A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework.
+Github: https://github.com/cutelyst/cutelyst
+Homepage: https://cutelyst.org/ 
