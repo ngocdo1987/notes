@@ -1,0 +1,5 @@
+1/ Cookin' with Rust
+https://rust-lang-nursery.github.io/rust-cookbook/intro.html
+
+2/ 100 days Rust
+https://dev.to/search?q=100DayOfRust

@@ -16,3 +16,6 @@ https://github.com/DDtKey/actix-web-grants
 
 Actix Web & SvelteKit tutorials
 https://dev.to/sirneij/full-stack-authentication-system-using-rust-actix-web-and-sveltekit-1cc6
+
+Create a GraphQL-powered project management endpoint in Rust and MongoDB - Actix web version
+https://dev.to/hackmamba/create-a-graphql-powered-project-management-endpoint-in-rust-and-mongodb-actix-web-version-3j1
