@@ -3,3 +3,15 @@ https://rust-lang-nursery.github.io/rust-cookbook/intro.html
 
 2/ 100 days Rust
 https://dev.to/search?q=100DayOfRust
+
+3/ Rust XLXS
+https://github.com/zupzup/xlsx-in-rust-example
+
+4/ Rust MySQL
+https://mobiarch.wordpress.com/2020/06/02/access-mysql-from-rust-part-i/
+https://mobiarch.wordpress.com/2020/06/02/accessing-mysql-from-rust-part-ii/
+https://mobiarch.wordpress.com/2020/06/09/access-mysql-from-rust-part-iii/
+https://mobiarch.wordpress.com/2020/06/10/access-mysql-from-rust-part-iv/
+
+5/ Rust Learning
+https://github.com/Dengjianping/Rust-learning
