@@ -15,3 +15,27 @@ https://mobiarch.wordpress.com/2020/06/10/access-mysql-from-rust-part-iv/
 
 5/ Rust Learning
 https://github.com/Dengjianping/Rust-learning
+
+6/ A starter pack for people learning the Rust programming language
+https://opheron.github.io/rust-starter-pack/
+
+7/ Rust web crawler
+https://github.com/mattsse/voyager
+
+8/ Chrome Devtools Protocol rust API
+https://github.com/mattsse/chromiumoxide
+
+9/ The fastest web crawler and indexer
+https://github.com/spider-rs/spider
+
+10/ Web crawler in Rust
+https://ghost.rolisz.ro/2020/03/01/web-crawler-in-rust/
+Building a crawler in Rust: Design and Associated Types
+https://kerkour.com/rust-crawler-associated-types
+Rust Web Scraping in 2023Rust Web Scraping in 2023
+https://www.zenrows.com/blog/rust-web-scraping#is-rust-good-for-web-scraping
+Web Scraping With Rust – The Ultimate 2023 Guide
+https://iproyal.com/blog/web-scraping-with-rust-the-ultimate-2022-guide/#Adding-a-Proxy-to-Reqwest
+Rust Web Scraping with SeleniumRust Web Scraping with Selenium
+https://iproyal.com/blog/rust-web-scraping-with-selenium/
+
