@@ -38,4 +38,5 @@ Web Scraping With Rust – The Ultimate 2023 Guide
 https://iproyal.com/blog/web-scraping-with-rust-the-ultimate-2022-guide/#Adding-a-Proxy-to-Reqwest
 Rust Web Scraping with SeleniumRust Web Scraping with Selenium
 https://iproyal.com/blog/rust-web-scraping-with-selenium/
-
+Just a clean boilerplate for crawling website & scrapping data with async-std, surf, scraper, colored.
+https://github.com/zzy/rust-async-spider

@@ -25,3 +25,12 @@ https://github.com/ParthJadhav/Rust_Search
 
 9/ Rust fullstack example
 https://github.com/zupzup/rust-fullstack-example
+
+10/ Clean boilerplate for graphql services using actix-web, rhai, async-graphql, surf, rbatis, graphql-client, handlebars-rust, jsonwebtoken, and mysql / postgresql.
+https://github.com/zzy/actix-web-async-graphql-rbatis
+
+11/ The Blog built on pure Rust stack. Backend for graphql services, and frontend for web application
+https://github.com/zzy/surfer
+
+12/ Based on Scratch & Rust web stacks. Kids can create stories, games, and animations, and share with others. A gift for my daughter, also hopes to help all kids who enjoy programming.
+https://github.com/rusthub-org/kids.kousun.com
