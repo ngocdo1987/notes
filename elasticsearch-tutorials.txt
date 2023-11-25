@@ -1,0 +1,5 @@
+1/ Custom Domains and Anonymous Access on Elastic Cloud
+https://xeraa.net/blog/2020_custom-domains-and-anonymous-access-on-elastic-cloud/
+
+2/ How to Configure Nginx Reverse Proxy for Kibana + ElasticSearch
+https://phoenixnap.com/kb/kibana-nginx-proxy
